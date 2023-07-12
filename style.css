@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+img{
+    margin-top: 20px;
+    margin-right: 200px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    border-width: 2px;
+    border-color: red;
+    border-style: dotted;
+
+}
+a{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: blue;
+    color: wheat;
+    
+    display: inline;
+    margin-top: 10px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+    margin-left: 250px;
+    text-decoration: none;
+    
+    
+
+    
+}
+p{
+    font-size: 20px;
+    font-family:'Caprasimo', cursive; ;
+    text-transform: capitalize;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    line-height: 18px;
+}
+
+    
